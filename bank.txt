@@ -1,2 +1,3 @@
 Welcome to ABC Bank Application
+Account module added to the application
 Loan module added to the application
