@@ -1,1 +1,1 @@
-Welcome to ABC Bank Application - Account System
+Welcome to ABC Bank Application - Loan System
